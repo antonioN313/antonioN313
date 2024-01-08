@@ -1,8 +1,8 @@
      
 ## 🌱 Aprendendo 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nodejs,ts,mysql,dotnet,cs)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,postgresql,mongodb)](https://skillicons.dev) 
 ## Ferramentas
- [![Tools](https://skillicons.dev/icons?i=bash,git,github,linux,vscode,vite,neovim,vercel)](https://skillicons.dev)
+ [![Tools](https://skillicons.dev/icons?i=bash,git,github,linux,vscode,neovim)](https://skillicons.dev)
   
 
 📫 Contatos
