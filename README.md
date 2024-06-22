@@ -1,6 +1,6 @@
      
 ## 🌱 Aprendendo 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,postgresql,mongodb)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=lua,cs)](https://skillicons.dev) 
 ## Ferramentas
  [![Tools](https://skillicons.dev/icons?i=bash,git,github,linux,vscode,neovim)](https://skillicons.dev)
   
